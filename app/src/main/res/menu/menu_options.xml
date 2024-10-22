@@ -16,7 +16,7 @@
         android:title="Logout"
         android:orderInCategory="200"
         app:showAsAction="always"
-        android:icon="@drawable/baseline_logout_24_white"
+        android:icon="@drawable/baseline_logout_24"
         />
 
 </menu>

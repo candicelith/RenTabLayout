@@ -18,8 +18,6 @@ class DashboardActivity : AppCompatActivity() {
         ActivityDashboardBinding.inflate(layoutInflater)
     }
 
-    private lateinit var sharedPreferences: SharedPreferences
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
